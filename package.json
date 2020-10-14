@@ -1,6 +1,6 @@
 {
   "name": "som-gifted-chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gifted chat with multiple statements broken into multiple messages",
   "main": "index.js",
   "scripts": {
