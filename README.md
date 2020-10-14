@@ -1,93 +1,3 @@
-<p align="center" >
-<p align="center" >
-   <a href="https://reactnative.gallery/FaridSafi/gifted-chat">
-    <img alt="react-native-gifted-chat" src="https://thumbs.gfycat.com/AbsoluteSadDobermanpinscher-size_restricted.gif" width="260" height="510" />
- </a>
-
-</p>
-
-<h3 align="center">
-  💬 Gifted Chat
-</h3>
-<p align="center">
-  The most complete chat UI for React Native & Web
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/react-native-gifted-chat">
-  <img alt="npm downloads" src="https://img.shields.io/npm/dm/react-native-gifted-chat.svg"/></a>
-  <a href="https://www.npmjs.com/package/react-native-gifted-chat"><img alt="npm version" src="https://badge.fury.io/js/react-native-gifted-chat.svg"/></a>
-   <a href="https://reactnative.gallery/FaridSafi/gifted-chat"><img src="https://img.shields.io/badge/reactnative.gallery-%F0%9F%8E%AC-green.svg"/></a>
-
-</p>
-<p align="center">
-  <a href="https://circleci.com/gh/FaridSafi/react-native-gifted-chat"><img src="https://circleci.com/gh/FaridSafi/react-native-gifted-chat.svg?style=shield" alt="build"></a>
-  <a href="https://travis-ci.org/FaridSafi/react-native-gifted-chat"><img src="https://api.travis-ci.org/FaridSafi/react-native-gifted-chat.svg" alt="deployed"></a>
-  <a title='License' href="https://github.com/FaridSafi/react-native-gifted-chat/blob/master/LICENSE" height="18">
-    <img src='https://img.shields.io/badge/license-MIT-blue.svg' />
-  </a>
-  <a href="#hire-an-expert"><img src="https://img.shields.io/badge/%F0%9F%92%AA-hire%20an%20expert-brightgreen"/></a>
-</p>
-
-<p align="center">
-  <a href="https://reverent-bardeen-47c862.netlify.com/" target="_blank">Demo Web 🖥</a>
-</p>
-<p align="center">
-  <a href="https://snack.expo.io/@xcarpentier/giftedchat-playground" target="_blank">Snack GiftedChat playground</a>
-  <img height="18" src="https://snack.expo.io/favicon.ico" />
-</p>
-
-## Sponsor
-
-<p align="center">
-  <br/>
-  <a href="https://www.lereacteur.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/FaridSafi/react-native-gifted-chat/master/media/logo_sponsor.png">
-  </a>
-  <br>
-  <p align="center">
-    Coding Bootcamp in Paris co-founded by Farid Safi
-  </p>
-  <a href="https://www.lereacteur.io" target="_blank">
-    <p align="center">
-      Click to learn more
-    </p>
-  </a>
-</p>
-
-<p align="center">
-  <br/>
-  <a href="https://getstream.io/chat/?utm_source=github&utm_medium=react-native-gifted-chat&utm_campaign=sponsorship" target="_blank">
-    <img src="https://i.imgur.com/oU7XYkk.png">
-  </a>
-  <br>
-  <p align="center">
-    Scalable <a href="https://getstream.io/chat/?utm_source=github&utm_medium=react-native-gifted-chat&utm_campaign=sponsorship" target="_blank">chat API/Server</a> written in Go
-  </p>
-  <p align="center">
-    <a href="https://getstream.io/chat/get_started/?utm_source=github&utm_medium=react-native-gifted-chat&utm_campaign=sponsorship" target="_blank">API Tour</a> | <a href="https://dev.to/nickparsons/react-native-chat-with-chuck-norris-3h7m?utm_source=github&utm_medium=react-native-gifted-chat&utm_campaign=sponsorship" target="_blank">React Native Gifted tutorial</a>
-  </p>
-</p>
-
-<p align="center">
-  <br/>
-  <a href="https://www.docdok.health/?utm_source=github&utm_medium=react-native-gifted-chat&utm_campaign=sponsorship" target="_blank">
-    <img src="https://www.dropbox.com/s/g4dcq267aqbykpz/logo.png?dl=0&raw=1">
-  </a>
-  <br>
-  <p align="center">Delivering Personalized Healthcare</p>
-  <p align="center">
-    <a href="https://www.docdok.health/?utm_source=github&utm_medium=react-native-gifted-chat&utm_campaign=sponsorship" target="_blank">      Find out more</a>
-  </p>
-</p>
-
-## The future of GiftedChat 🎉 
-Please give us your advice: [Related PR](https://github.com/FaridSafi/react-native-gifted-chat/pull/1775)
-
-## Please vote
-
-**GiftedChat** depends on other packages and some needs a boost, please vote for PRs will improve it, thanks:
-- https://github.com/watadarkstar/react-native-typing-animation/issues/18
-
 ## Features
 
 - 🎉 **_`react-native-web`able_ (since 0.10.0)** [web configuration](#react-native-web)
@@ -114,8 +24,7 @@ Please give us your advice: [Related PR](https://github.com/FaridSafi/react-nati
 
 ## Installation
 
-- Using [npm](https://www.npmjs.com/#getting-started): `npm install react-native-gifted-chat --save`
-- Using [Yarn](https://yarnpkg.com/): `yarn add react-native-gifted-chat`
+- Using [npm](https://www.npmjs.com/#getting-started): `npm install som-gifted-chat --save`
 
 ### react-native-video and expo-av
 
